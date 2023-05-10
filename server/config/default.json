@@ -1,6 +1,6 @@
 {
   "serverPort": 5000,
-  "dbUrl": "mongodb+srv://cloud-disk:cloud-disk@cluster-cloud-disk.9r0woqt.mongodb.net/?retryWrites=true&w=majority",
-  "secretKey": "mern-secret-key",
-  "filePath": "C:\\Users\\w\\WebstormProjects\\cloud-disk\\server\\files"
+  "dbUrl": "mongodb+srv://Titonium123:jDVigU4WrEosh1bH@clouddisk.i3awszh.mongodb.net/?retryWrites=true&w=majority",
+  "secretKey": "momgobb",
+  "filePath":"C:\\Users\\Pupil\\WebstormProjects\\Tokhtar10D\\cloud-disk\\server\\files"
 }
